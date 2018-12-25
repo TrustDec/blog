@@ -14,11 +14,11 @@
 
 ### 进度
 
-> [Android 基础](https://classroom.udacity.com/courses/ud834/lessons/4027328704/concepts/42497385870923#)
+> [Android 基础](https://classroom.udacity.com/courses/ud834/lessons/4027328704/concepts/41983185830923#)
 
 > [Android 布局入门](https://classroom.udacity.com/courses/ud851/lessons/93affc67-3f0b-4f9b-b3a4-a7a26f241a86/concepts/cdbfd437-de24-4903-8f01-37c29427cb38)
 
-
+###  路径
 > [Android 学习路线](https://www.springboard.com/learning-paths/android/learn/)
 
 >[原地址](https://www.quora.com/What-is-the-best-Android-learning-path)
