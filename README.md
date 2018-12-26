@@ -14,3 +14,7 @@
 
 [poetries](http://blog.poetries.top/archives/)
 
+### 2019
+
+[投资最重要的事](https://book.douban.com/subject/10799082/)
+
