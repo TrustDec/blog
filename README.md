@@ -18,6 +18,8 @@
 
 [投资最重要的事](https://book.douban.com/subject/10799082/)
 
+[Flutter实战](https://book.flutterchina.club)
+
 ### Docker
 [Docker容器进入的4种方式](https://www.cnblogs.com/xhyan/p/6593075.html)
 
