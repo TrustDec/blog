@@ -20,7 +20,7 @@
 
 [Flutter实战](https://book.flutterchina.club)
 
-#### TypeScript笔记
+#### TypeScript
 <del> [TypeScript 笔记](https://github.com/TrustTheBoy/TypeScript/issues) </del>
 
 ### Docker
