@@ -20,6 +20,9 @@
 
 [Flutter实战](https://book.flutterchina.club)
 
+#### TypeScript笔记
+<del> [TypeScript 笔记](https://github.com/TrustTheBoy/TypeScript/issues) </del>
+
 ### Docker
 [Docker容器进入的4种方式](https://www.cnblogs.com/xhyan/p/6593075.html)
 
