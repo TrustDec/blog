@@ -1,11 +1,14 @@
 ### 笔记/博客
 
 - [笔记区](https://github.com/TrustTheBoy/blog/issues)
+
 - [poetries](http://blog.poetries.top/archives/)
 
 ### 基础
 
-- [SQLite 基础篇](./Basic)
+- [SQLite 基础篇](./Basic/SQLite基础.md)
+
+- [Sqlite的事务与锁和WAL模式](./Basic/Sqlite的事务与锁和WAL模式.md)
 
 ### iOS
 
