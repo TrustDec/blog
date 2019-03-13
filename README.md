@@ -1,16 +1,17 @@
-## 笔记
+### 笔记/博客
 
-[笔记区](https://github.com/TrustTheBoy/blog/issues)
+- [笔记区](https://github.com/TrustTheBoy/blog/issues)
+- [poetries](http://blog.poetries.top/archives/)
 
-## 基础
+### 基础
 
 - [SQLite 基础篇](./Basic)
 
-## iOS
+### iOS
 
 - [iOS learning-paths](./iOS)
 
-## Android
+### Android
 
 - [Android learning-paths](./Android)
 
@@ -24,15 +25,9 @@
 
 - [用 Docker 快速配置前端开发环境](http://numbbbbb.com/2016/09/26/20160926_%E7%94%A8%20Docker%20%E5%BF%AB%E9%80%9F%E9%85%8D%E7%BD%AE%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/)
 
-## 投资/理财
+### 投资/理财
 
 - [投资最重要的事](https://book.douban.com/subject/10799082/)
-
-## 博客
-
-- [进入博客](https://github.com/TrustTheBoy/blog/issues)
-
-- [poetries](http://blog.poetries.top/archives/)
 
 ### Github 非常棒的一些项目
 
