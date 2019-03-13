@@ -1,3 +1,5 @@
+[本文部分来源于黄文臣老师的博客](https://github.com/LeoMobileDeveloper/Blogs)
+
 ### 笔记/博客
 
 - [笔记区](https://github.com/TrustTheBoy/blog/issues)
@@ -8,15 +10,15 @@
 
 - [SQLite 基础篇](./Basic/SQLite基础.md)
 
-- [Sqlite的事务与锁和WAL模式](./Basic/Sqlite的事务与锁和WAL模式.md)
+- [Sqlite 的事务与锁和 WAL 模式](./Basic/Sqlite的事务与锁和WAL模式.md)
 
 ### iOS
 
 - [iOS learning-paths](./iOS)
 
-### iOS代码调试
+### iOS 代码调试
 
-- [Safari/Chrome调试WebView](https://blog.csdn.net/hello_hwc/article/details/80721246)
+- [Safari/Chrome 调试 WebView](https://blog.csdn.net/hello_hwc/article/details/80721246)
 
 ### Android
 
