@@ -1,9 +1,10 @@
 ## 笔记
+
 [笔记区](https://github.com/TrustTheBoy/blog/issues)
 
 ## 基础
 
-- [SQLite基础篇](./Basic)
+- [SQLite 基础篇](./Basic)
 
 ## iOS
 
@@ -14,9 +15,10 @@
 - [Android learning-paths](./Android)
 
 ### Docker
-- [Docker容器进入的4种方式](https://www.cnblogs.com/xhyan/p/6593075.html)
 
-- [docker无法删除镜像，Error: No such container，附docker常用命令](https://blog.csdn.net/ithaibiantingsong/article/details/81353168)
+- [Docker 容器进入的 4 种方式](https://www.cnblogs.com/xhyan/p/6593075.html)
+
+- [docker 无法删除镜像，Error: No such container，附 docker 常用命令](https://blog.csdn.net/ithaibiantingsong/article/details/81353168)
 
 - [Docker 配置前端开发环境实战](https://www.jianshu.com/p/04a34cbfcdfb)
 
@@ -34,6 +36,4 @@
 
 ### Github 非常棒的一些项目
 
-- [用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
-
-
+- [用动画的形式呈现解 LeetCode 题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
