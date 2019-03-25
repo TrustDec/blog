@@ -6,6 +6,8 @@
 
 - [poetries](http://blog.poetries.top/archives/)
 
+- [腾讯新闻前端团队](https://github.com/Tnfe/TNFE-Weekly):每周为你提供高质量的关于小程序、h5等前端领域的文章和项目
+
 ### 基础
 
 - [SQLite 基础篇](./Basic/SQLite基础.md)
