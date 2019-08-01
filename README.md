@@ -2,6 +2,8 @@
 
 ### 笔记/博客
 
+- [Hashrocket-今天我学会了](https://til.hashrocket.com/)
+
 - [笔记区](https://github.com/TrustTheBoy/blog/issues)
 
 - [poetries](http://blog.poetries.top/archives/)
