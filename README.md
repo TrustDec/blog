@@ -1,6 +1,7 @@
 
 
 ### 笔记/博客
+- [苹果相关的科技话题](https://atp.fm/)
 - [phodal 大佬](https://www.phodal.com)
 - [Hashrocket-今天我学会了](https://til.hashrocket.com/)
 
